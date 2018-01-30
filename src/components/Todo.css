@@ -1,0 +1,12 @@
+.listItem {
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.listItem a {
+    float:right;
+}
+
+.listItem span {
+    margin-right:10%;
+}
